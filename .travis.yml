@@ -10,7 +10,7 @@ env:
 
 install:
 - sudo apt-get update
-- sudo apt-get upgrade -Vy
+- sudo apt-get upgrade docker-ce -Vy
 
 before_script:
 - docker run --rm --privileged multiarch/qemu-user-static:register --reset
