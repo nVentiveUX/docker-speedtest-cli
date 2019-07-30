@@ -1,7 +1,7 @@
 # docker-speedtest-cli
-[![Build Status](https://travis-ci.org/nVentiveUX/docker-speedtest-cli.svg?branch=master)](https://travis-ci.org/nVentiveUX/docker-speedtest-cli)
+[![Build Status](https://travis-ci.org/nVentiveUX/docker-speedtest-cli.svg?branch=master)](https://travis-ci.org/nVentiveUX/docker-speedtest-cli) [![Docker Pulls](https://img.shields.io/docker/pulls/nventiveux/docker-speedtest-cli)](https://hub.docker.com/r/nventiveux/docker-speedtest-cli)
 
-Docker image for testing internet bandwidth using speedtest.net . Think for RaspberryPi.
+Docker image for testing internet bandwidth using speedtest.net
 
 ## Quick start
 
