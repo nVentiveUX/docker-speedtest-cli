@@ -1,7 +1,7 @@
 FROM arm32v6/alpine:latest
 MAINTAINER nVentiveUX
 
-ENV SPEEDTEST_VERSION 2.1.1
+ENV SPEEDTEST_VERSION 2.1.2
 
 COPY qemu-arm-static /usr/bin/qemu-arm-static
 
